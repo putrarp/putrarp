@@ -10,11 +10,17 @@
 </p>
 
 <!-- minimal, no-count badges -->
-<center>
-  
-  ![![](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/putrarp) [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://id.linkedin.com/in/putrarp) [![](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors)](https://github.com/sponsors/putrarp) [![](https://komarev.com/ghpvc/?username=putrarp&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/putrarp)
-  
-<center>
+<p align="center">
+  <a href="https://id.linkedin.com/in/putrarp">
+    <img alt="Follow @putrarp" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/sponsors/putrarp">
+    <img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=githubsponsors">
+  </a>
+  <a href="https://github.com/putrarp">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=putrarp&label=Profile%20views&color=0e75b6&style=flat">
+  </a>
+</p>
 
 ---
 
